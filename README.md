@@ -7,3 +7,9 @@ npm install
 ```
 
 and you should be good to go!
+
+To start the app, use
+
+```shell
+npm run start
+```
